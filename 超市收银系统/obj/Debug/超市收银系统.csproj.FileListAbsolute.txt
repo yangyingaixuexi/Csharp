@@ -1,0 +1,12 @@
+D:\VStudio\C#\超市收银系统\超市收银系统\bin\Debug\超市收银系统.exe.config
+D:\VStudio\C#\超市收银系统\超市收银系统\obj\Debug\超市收银系统.csprojResolveAssemblyReference.cache
+D:\VStudio\C#\超市收银系统\超市收银系统\bin\Debug\超市收银系统.exe
+D:\VStudio\C#\超市收银系统\超市收银系统\bin\Debug\超市收银系统.pdb
+D:\VStudio\C#\超市收银系统\超市收银系统\obj\Debug\超市收银系统.exe
+D:\VStudio\C#\超市收银系统\超市收银系统\obj\Debug\超市收银系统.pdb
+D:\VStudio\超市收银系统\超市收银系统\bin\Debug\超市收银系统.exe.config
+D:\VStudio\超市收银系统\超市收银系统\obj\Debug\超市收银系统.exe
+D:\VStudio\超市收银系统\超市收银系统\obj\Debug\超市收银系统.pdb
+D:\VStudio\超市收银系统\超市收银系统\bin\Debug\超市收银系统.exe
+D:\VStudio\超市收银系统\超市收银系统\bin\Debug\超市收银系统.pdb
+D:\VStudio\超市收银系统\超市收银系统\obj\Debug\超市收银系统.csprojResolveAssemblyReference.cache
